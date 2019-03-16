@@ -1,11 +1,11 @@
 # site settings
-title: Forty
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
-baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
-author:
+title: Steven Handoko
+subtitle: Portfolio
+email: thanatos.steven@gmail.com
+description: Portfolio of Steven Handoko
+baseurl: "/post" # the subpath of your site, e.g. /blog
+url: "https://steven-handoko.github.io"# the base hostname & protocol for your site
+author: Steven Handoko
 street_address: 1234 Somewhere Road
 city: Nashville
 state: TN
